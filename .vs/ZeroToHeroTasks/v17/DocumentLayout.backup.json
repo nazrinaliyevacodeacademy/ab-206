@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\ZeroToHeroTasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{731BA085-7D70-4E0F-BB71-5DB19AB1C857}|ZeroToHeroTasks\\ZeroToHeroTasks.csproj|c:\\users\\user\\source\\repos\\zerotoherotasks\\zerotoherotasks\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{731BA085-7D70-4E0F-BB71-5DB19AB1C857}|ZeroToHeroTasks\\ZeroToHeroTasks.csproj|solutionrelative:zerotoherotasks\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{731BA085-7D70-4E0F-BB71-5DB19AB1C857}|ZeroToHeroTasks\\ZeroToHeroTasks.csproj|c:\\users\\user\\source\\repos\\zerotoherotasks\\zerotoherotasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{731BA085-7D70-4E0F-BB71-5DB19AB1C857}|ZeroToHeroTasks\\ZeroToHeroTasks.csproj|solutionrelative:zerotoherotasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731BA085-7D70-4E0F-BB71-5DB19AB1C857}|ZeroToHeroTasks\\ZeroToHeroTasks.csproj|c:\\users\\user\\source\\repos\\zerotoherotasks\\zerotoherotasks\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731BA085-7D70-4E0F-BB71-5DB19AB1C857}|ZeroToHeroTasks\\ZeroToHeroTasks.csproj|solutionrelative:zerotoherotasks\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Tasks.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ZeroToHeroTasks\\ZeroToHeroTasks\\Tasks.cs",
               "RelativeDocumentMoniker": "ZeroToHeroTasks\\Tasks.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\ZeroToHeroTasks\\ZeroToHeroTasks\\Tasks.cs",
               "RelativeToolTip": "ZeroToHeroTasks\\Tasks.cs",
-              "ViewState": "AgIAACgBAAAAAAAAAIA8wM4BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T01:17:40.765Z",
               "IsPinned": true,
@@ -36,7 +36,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\ZeroToHeroTasks\\ZeroToHeroTasks\\Program.cs",
               "RelativeDocumentMoniker": "ZeroToHeroTasks\\Program.cs",

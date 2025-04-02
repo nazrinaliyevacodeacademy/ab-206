@@ -31,8 +31,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T01:17:40.765Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -42,7 +41,7 @@
               "RelativeDocumentMoniker": "ZeroToHeroTasks\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\ZeroToHeroTasks\\ZeroToHeroTasks\\Program.cs",
               "RelativeToolTip": "ZeroToHeroTasks\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAMwCIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAMwB0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T01:15:23.975Z",
               "EditorCaption": ""
