@@ -1,0 +1,42 @@
+﻿namespace ZeroToHeroTasks
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Tasks.Task1();
+            Tasks.Task2();
+            Tasks.Task3();
+            Tasks.Task4();
+            Tasks.Task5();
+            Tasks.Task6();
+            Tasks.Task7();
+            Tasks.Task8();
+            Tasks.Task9();
+            Tasks.Task10();
+            Tasks.Task11();
+            Tasks.Task12();
+            Tasks.Task13(); 
+            Tasks.Task14();
+            Tasks.Task15();
+            Tasks.Task16(); 
+            Tasks.Task17();
+            Tasks.Task18();
+            Tasks.Task19();
+            Tasks.Task20();
+            Tasks.Task21();
+            Tasks.Task22();
+            Tasks.Task23();
+            Tasks.Task24();
+            Tasks.Task25();
+            Tasks.Task26();
+            Tasks.Task27();
+            Tasks.Task28();
+            Tasks.Task29();
+            Tasks.Task30();
+            Tasks.Task31();
+            Tasks.Task32();
+            Tasks.Task33();
+        }
+    }
+}
