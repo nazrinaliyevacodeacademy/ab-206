@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\MusicService\Music\bin\Debug\net8.0\Music.exe
+C:\Users\user\source\repos\MusicService\Music\bin\Debug\net8.0\Music.deps.json
+C:\Users\user\source\repos\MusicService\Music\bin\Debug\net8.0\Music.runtimeconfig.json
+C:\Users\user\source\repos\MusicService\Music\bin\Debug\net8.0\Music.dll
+C:\Users\user\source\repos\MusicService\Music\bin\Debug\net8.0\Music.pdb
+C:\Users\user\source\repos\MusicService\Music\obj\Debug\net8.0\Music.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MusicService\Music\obj\Debug\net8.0\Music.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MusicService\Music\obj\Debug\net8.0\Music.AssemblyInfo.cs
+C:\Users\user\source\repos\MusicService\Music\obj\Debug\net8.0\Music.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MusicService\Music\obj\Debug\net8.0\Music.dll
+C:\Users\user\source\repos\MusicService\Music\obj\Debug\net8.0\refint\Music.dll
+C:\Users\user\source\repos\MusicService\Music\obj\Debug\net8.0\Music.pdb
+C:\Users\user\source\repos\MusicService\Music\obj\Debug\net8.0\Music.genruntimeconfig.cache
+C:\Users\user\source\repos\MusicService\Music\obj\Debug\net8.0\ref\Music.dll
